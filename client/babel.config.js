@@ -1,5 +1,6 @@
-module.exports = {
-  presets: [
+#testmodule.exports = {
+  pres 
+    e  afafsdts: [
     '@vue/cli-plugin-babel/preset'
   ]
 }
