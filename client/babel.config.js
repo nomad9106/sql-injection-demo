@@ -1,8 +1,10 @@
-module.exports = {
+
+
+#test module.exports = {
   presets: [
     '@vue/cli-plugin-babel/preset'
   ]
 }
-function test() {
+fun#testction test() {
     console.log("this should trigger");
 }
